@@ -1,4 +1,4 @@
-# pokdex
+# Pokdex
 
 A new Flutter project.
 
